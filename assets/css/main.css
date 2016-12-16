@@ -26,3 +26,12 @@ img.social-media {
 #gum-image {
   max-height: 400px;
 }
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+a:hover {
+  text-decoration: underline;
+}
